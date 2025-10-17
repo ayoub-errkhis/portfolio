@@ -21,8 +21,8 @@ Experienced Python engineer evolving into a data platform specialist. I build pr
 
 ### Python FullStack Backend Engineer — Webpick  
 *2021 - 2024, Marrakech*  
-- **Occasion AutoPlus** — Built ingestion pipelines that consolidated multi-source vehicle data, harmonized schemas, and exposed a consumption-ready API via Django REST Framework.  
-- Automated lifecycle management of listings data, reclaiming 40% storage and keeping analytics datasets accurate.  
+- **Occasion AutoPlus** — Built GCP-hosted ingestion pipelines that consolidated multi-source vehicle data, harmonized schemas, and exposed a consumption-ready API via Django REST Framework.  
+- Automated lifecycle management of listings data using Cloud Composer workflows, reclaiming 40% storage and keeping analytics datasets accurate.  
 - **EnVols** — Engineered migration scripts to port flight content from a legacy Laravel stack to a WordPress data model without interrupting reporting.  
 - Delivered FastAPI endpoints that powered mobile personalization and exposed analytics-grade data to marketing stakeholders.  
 
